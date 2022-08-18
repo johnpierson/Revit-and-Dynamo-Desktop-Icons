@@ -7,9 +7,9 @@
    viewBox="0 0 26.458333 26.458334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="revit.svg"
-   inkscape:export-filename="C:\Users\johnpierson\Desktop\Icons\revit_22.png"
+   inkscape:export-filename="revit_23.png"
    inkscape:export-xdpi="576"
    inkscape:export-ydpi="576"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,14 +28,16 @@
      showgrid="false"
      units="px"
      inkscape:zoom="3.1072952"
-     inkscape:cx="51.008993"
-     inkscape:cy="99.765223"
-     inkscape:window-width="1918"
+     inkscape:cx="-15.125695"
+     inkscape:cy="99.926135"
+     inkscape:window-width="1904"
      inkscape:window-height="1008"
-     inkscape:window-x="953"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2">
     <rect
@@ -160,7 +162,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan2751">2</tspan></text>
+         id="tspan338">2</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.76133969,0,0,0.76133969,4.0119442,-36.962152)"
@@ -168,6 +170,6 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham,  weight=330';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398-0);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan2753">2</tspan></text>
+         id="tspan340">3</tspan></text>
   </g>
 </svg>

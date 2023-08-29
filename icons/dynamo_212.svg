@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="dynamo_212.svg"
-   inkscape:export-filename="dynamo_216.png"
+   inkscape:export-filename="dynamo_217.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,7 +28,7 @@
      showgrid="false"
      units="px"
      inkscape:zoom="3.1072952"
-     inkscape:cx="-16.091165"
+     inkscape:cx="-58.410929"
      inkscape:cy="99.765223"
      inkscape:window-width="1918"
      inkscape:window-height="1018"
@@ -159,20 +159,20 @@
        xml:space="preserve"
        transform="matrix(0.20352318,0,0,0.20352318,-0.00979022,-4.6519502)"
        id="text1396"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan686"><tspan
+         id="tspan840"><tspan
            style="font-weight:normal;-inkscape-font-specification:Gotham"
-           id="tspan684">2</tspan></tspan></text>
+           id="tspan838">2</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.46957593,0,0,0.46957593,3.8247149,-18.413528)"
        id="text1396-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398-0);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan688">16</tspan></text>
+         id="tspan842">17</tspan></text>
     <g
        id="g5445"
        inkscape:label="dynamo_logo"

@@ -7,9 +7,9 @@
    viewBox="0 0 26.458333 26.458334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="revit.svg"
-   inkscape:export-filename="revit_25.png"
+   inkscape:export-filename="revit_26.png"
    inkscape:export-xdpi="576"
    inkscape:export-ydpi="576"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,12 +28,12 @@
      showgrid="false"
      units="px"
      inkscape:zoom="3.1072952"
-     inkscape:cx="-87.69685"
-     inkscape:cy="100.40887"
-     inkscape:window-width="1904"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="199"
+     inkscape:cx="7.5628476"
+     inkscape:cy="102.66163"
+     inkscape:window-width="1702"
+     inkscape:window-height="1328"
+     inkscape:window-x="1518"
+     inkscape:window-y="16"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
@@ -162,7 +162,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan1008">2</tspan></text>
+         id="tspan1">2</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.76133969,0,0,0.76133969,2.1386644,-36.962152)"
@@ -170,6 +170,6 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham,  weight=330';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan1010">5</tspan></text>
+         id="tspan2">6</tspan></text>
   </g>
 </svg>

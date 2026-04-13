@@ -7,9 +7,9 @@
    viewBox="0 0 26.458333 26.458334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="revit.svg"
-   inkscape:export-filename="revit_26.png"
+   inkscape:export-filename="revit_20.png"
    inkscape:export-xdpi="576"
    inkscape:export-ydpi="576"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,9 +30,9 @@
      inkscape:zoom="3.1072952"
      inkscape:cx="7.5628476"
      inkscape:cy="102.66163"
-     inkscape:window-width="1702"
+     inkscape:window-width="2542"
      inkscape:window-height="1328"
-     inkscape:window-x="1518"
+     inkscape:window-x="5121"
      inkscape:window-y="16"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -157,19 +157,23 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.45581164,0,0,0.45581164,-3.280828,-21.158714)"
+       transform="matrix(0.45581164,0,0,0.45581164,-3.8267841,-23.576874)"
        id="text1396"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan1">2</tspan></text>
+         id="tspan4"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Gotham Bold'"
+           id="tspan3">2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.76133969,0,0,0.76133969,2.1386644,-36.962152)"
+       transform="matrix(0.76133969,0,0,0.76133969,0.97205273,-34.909426)"
        id="text1396-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham,  weight=330';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="6.4355469"
          y="80.125"
-         id="tspan2">6</tspan></text>
+         id="tspan6"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Gotham Bold'"
+           id="tspan5">0</tspan></tspan></text>
   </g>
 </svg>

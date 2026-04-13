@@ -1,0 +1,64 @@
+name: Build and Release Icons
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "icons/*.png"
+  workflow_dispatch:
+
+jobs:
+  build-icons:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick and zip
+        run: sudo apt-get update && sudo apt-get install -y imagemagick zip
+
+      - name: Generate ICO files
+        run: |
+          mkdir -p dist/icons
+
+          for file in icons/*.png; do
+            [ -e "$file" ] || continue
+            filename=$(basename "$file" .png)
+
+            convert "$file" \
+              \( -clone 0 -resize 16x16 \) \
+              \( -clone 0 -resize 32x32 \) \
+              \( -clone 0 -resize 48x48 \) \
+              \( -clone 0 -resize 64x64 \) \
+              \( -clone 0 -resize 128x128 \) \
+              \( -clone 0 -resize 256x256 \) \
+              -delete 0 \
+              dist/icons/${filename}.ico
+          done
+
+      - name: Zip ICO files
+        run: |
+          ico_count=$(find dist/icons -maxdepth 1 -name '*.ico' | wc -l)
+          if [ "$ico_count" -eq 0 ]; then
+            echo "Error: No .ico files were generated. Failing workflow."
+            exit 1
+          fi
+          cd dist/icons
+          zip -r ../icons.zip *.ico
+
+      - name: Get short SHA
+        id: short-sha
+        run: echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: icons-${{ steps.short-sha.outputs.sha }}
+          name: Icons Release ${{ steps.short-sha.outputs.sha }}
+          files: dist/icons.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
